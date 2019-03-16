@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Example05 - LowMan.unity
+  isLoaded: 1
+  isActive: 1
